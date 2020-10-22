@@ -9,6 +9,6 @@ As well, this is one of the challenges for Platzi Master -- an education acceler
 In this repository, we use several datasets. The implemented algorithms explore advanced Sklearn functionalities. Some of these include:
 
 - PCA and IPCA
-- Lasso and Ridge for regularization sake
+- Lasso and Ridge regressions for regularization sake
 - Robust Regression
 - Ensamble methods (bagging and boosting)
